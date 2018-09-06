@@ -1,0 +1,18 @@
+#AboutContent .hello {
+  width: 100%; }
+#AboutContent .about-title {
+  font-size: 1.8em;
+  line-height: 1.4;
+  margin: 45px auto; }
+
+@media screen and (min-width: 769px) {
+  #AboutContent .hello {
+    max-width: 980px;
+    margin: 0 auto; }
+  #AboutContent .about-title {
+    font-size: 3.6em;
+    width: 640px;
+    margin: 50px auto;
+    padding: 0 10px; } }
+
+/*# sourceMappingURL=style.css.map */

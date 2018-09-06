@@ -1,0 +1,46 @@
+#TopContent .section {
+  height: 100vh;
+  position: relative; }
+  #TopContent .section:after {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: block;
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    transition-duration: 0.6s;
+    z-index: 0; }
+  #TopContent .section.section-2018a .text-link {
+    width: calc(352px / 2); }
+  #TopContent .section.section-2018s .text-link {
+    width: calc(517px / 2); }
+  #TopContent .section .text-link {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 10; }
+
+@media screen and (min-width: 769px) {
+  #TopContent .section.section-2018a:after {
+    background-image: url("../../assets/img/top/top_visual2018a_pc.jpg"); }
+  #TopContent .section.section-2018s:after {
+    background-image: url("../../assets/img/top/top_visual2018s_pc.jpg"); }
+  #TopContent .section .text-link {
+    bottom: calc(50px + 8%); }
+  #TopContent .section.zoom:after {
+    opacity: .8;
+    transform: scale(1.05);
+    transition-duration: 0.6s; } }
+@media screen and (max-width: 768px) {
+  #TopContent .section.section-2018a {
+    background-image: url("../../assets/img/top/top_visual2018a_sp.jpg"); }
+  #TopContent .section.section-2018s {
+    background-image: url("../../assets/img/top/top_visual2018s_sp.jpg"); }
+  #TopContent .section .text-link {
+    bottom: calc(50px + 8%); } }
+
+/*# sourceMappingURL=style.css.map */

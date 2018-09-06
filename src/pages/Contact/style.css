@@ -1,0 +1,35 @@
+#ContactContent .contact-text {
+  font-size: 1.2em;
+  margin-bottom: 20px;
+  letter-spacing: .1em;
+  line-height: 1.6; }
+#ContactContent .mail-link {
+  font-size: 1.8em;
+  letter-spacing: .15em;
+  font-weight: bold; }
+  #ContactContent .mail-link a {
+    display: inline-block;
+    transition: .3s;
+    position: relative; }
+    #ContactContent .mail-link a::after {
+      position: absolute;
+      bottom: 8px;
+      left: 50%;
+      content: '';
+      width: 0;
+      height: 1px;
+      background: #1b1b1b;
+      transition: .3s;
+      transform: translateX(-50%); }
+    #ContactContent .mail-link a:hover::after {
+      width: 100%; }
+
+@media screen and (min-width: 769px) {
+  #ContactContent .contact-text {
+    font-size: 1.4em;
+    margin-bottom: 40px; }
+  #ContactContent .mail-link {
+    font-size: 2.4em;
+    font-weight: normal; } }
+
+/*# sourceMappingURL=style.css.map */
