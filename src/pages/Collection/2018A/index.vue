@@ -2,7 +2,7 @@
   <div id="CollectionContent" class="content child detail">
     <div class="inner-wrap enter-view" ref="enterView">
       <div class="tag">COLLECTION</div>
-      <h1 class="ttl-page">2018 Autumn Collection “Oriental”</h1>
+      <h1 class="ttl-page">2018 Autumn Collection “Vintage like”</h1>
       <section v-for="(list, index) in lists" :key="list.img">
         <div class="collection-main-img c-section__image-in js-smooth-item">
           <img :src="list.img" class="js-parallax-item">
@@ -52,21 +52,26 @@ export default {
       lists: [
         {
           hash: '#product0',
-          img: require('@/assets/img/collection/2018a/2018a_01_main.jpg'),
+          img: require('@/assets/img/collection/2018a/01_main.jpg'),
           active: false,
           products: [
             {
-              img: require('@/assets/img/collection/2018s/2018s_02_sample.jpg'),
+              img: require('@/assets/img/collection/2018a/p01/1.jpg'),
               name: 'SampleSample Earrings',
               price: '¥10,000+tax'
             },
             {
-              img: require('@/assets/img/collection/2018s/2018s_02_sample.jpg'),
+              img: require('@/assets/img/collection/2018a/p01/2.jpg'),
               name: 'SampleSample Earrings',
               price: '¥10,000+tax'
             },
             {
-              img: require('@/assets/img/collection/2018s/2018s_02_sample.jpg'),
+              img: require('@/assets/img/collection/2018a/p01/3.jpg'),
+              name: 'SampleSample Earrings',
+              price: '¥10,000+tax'
+            },
+            {
+              img: require('@/assets/img/collection/2018a/p01/4.jpg'),
               name: 'SampleSample Earrings',
               price: '¥10,000+tax'
             }
@@ -74,21 +79,21 @@ export default {
         },
         {
           hash: '#product1',
-          img: require('@/assets/img/collection/2018a/2018a_02_main.jpg'),
+          img: require('@/assets/img/collection/2018a/02_main.jpg'),
           active: false,
           products: [
             {
-              img: require('@/assets/img/collection/2018s/2018s_02_sample.jpg'),
+              img: require('@/assets/img/collection/2018a/p02/1.jpg'),
               name: 'SampleSample Earrings',
               price: '¥10,000+tax'
             },
             {
-              img: require('@/assets/img/collection/2018s/2018s_02_sample.jpg'),
+              img: require('@/assets/img/collection/2018a/p02/2.jpg'),
               name: 'SampleSample Earrings',
               price: '¥10,000+tax'
             },
             {
-              img: require('@/assets/img/collection/2018s/2018s_02_sample.jpg'),
+              img: require('@/assets/img/collection/2018a/p02/3.jpg'),
               name: 'SampleSample Earrings',
               price: '¥10,000+tax'
             }
@@ -96,21 +101,26 @@ export default {
         },
         {
           hash: '#product2',
-          img: require('@/assets/img/collection/2018a/2018a_03_main.jpg'),
+          img: require('@/assets/img/collection/2018a/03_main.jpg'),
           active: false,
           products: [
             {
-              img: require('@/assets/img/collection/2018s/2018s_02_sample.jpg'),
+              img: require('@/assets/img/collection/2018a/p03/1.jpg'),
               name: 'SampleSample Earrings',
               price: '¥10,000+tax'
             },
             {
-              img: require('@/assets/img/collection/2018s/2018s_02_sample.jpg'),
+              img: require('@/assets/img/collection/2018a/p03/2.jpg'),
               name: 'SampleSample Earrings',
               price: '¥10,000+tax'
             },
             {
-              img: require('@/assets/img/collection/2018s/2018s_02_sample.jpg'),
+              img: require('@/assets/img/collection/2018a/p03/3.jpg'),
+              name: 'SampleSample Earrings',
+              price: '¥10,000+tax'
+            },
+            {
+              img: require('@/assets/img/collection/2018a/p03/4.jpg'),
               name: 'SampleSample Earrings',
               price: '¥10,000+tax'
             }
@@ -118,21 +128,21 @@ export default {
         },
         {
           hash: '#product3',
-          img: require('@/assets/img/collection/2018a/2018a_04_main.jpg'),
+          img: require('@/assets/img/collection/2018a/04_main.jpg'),
           active: false,
           products: [
             {
-              img: require('@/assets/img/collection/2018s/2018s_02_sample.jpg'),
+              img: require('@/assets/img/collection/2018a/p04/1.jpg'),
               name: 'SampleSample Earrings',
               price: '¥10,000+tax'
             },
             {
-              img: require('@/assets/img/collection/2018s/2018s_02_sample.jpg'),
+              img: require('@/assets/img/collection/2018a/p04/2.jpg'),
               name: 'SampleSample Earrings',
               price: '¥10,000+tax'
             },
             {
-              img: require('@/assets/img/collection/2018s/2018s_02_sample.jpg'),
+              img: require('@/assets/img/collection/2018a/p04/3.jpg'),
               name: 'SampleSample Earrings',
               price: '¥10,000+tax'
             }
@@ -140,21 +150,21 @@ export default {
         },
         {
           hash: '#product4',
-          img: require('@/assets/img/collection/2018a/2018a_05_main.jpg'),
+          img: require('@/assets/img/collection/2018a/05_main.jpg'),
           active: false,
           products: [
             {
-              img: require('@/assets/img/collection/2018s/2018s_02_sample.jpg'),
+              img: require('@/assets/img/collection/2018a/p05/1.jpg'),
               name: 'SampleSample Earrings',
               price: '¥10,000+tax'
             },
             {
-              img: require('@/assets/img/collection/2018s/2018s_02_sample.jpg'),
+              img: require('@/assets/img/collection/2018a/p05/2.jpg'),
               name: 'SampleSample Earrings',
               price: '¥10,000+tax'
             },
             {
-              img: require('@/assets/img/collection/2018s/2018s_02_sample.jpg'),
+              img: require('@/assets/img/collection/2018a/p05/3.jpg'),
               name: 'SampleSample Earrings',
               price: '¥10,000+tax'
             }
@@ -162,21 +172,21 @@ export default {
         },
         {
           hash: '#product5',
-          img: require('@/assets/img/collection/2018a/2018a_06_main.jpg'),
+          img: require('@/assets/img/collection/2018a/06_main.jpg'),
           active: false,
           products: [
             {
-              img: require('@/assets/img/collection/2018s/2018s_02_sample.jpg'),
+              img: require('@/assets/img/collection/2018a/p06/1.jpg'),
               name: 'SampleSample Earrings',
               price: '¥10,000+tax'
             },
             {
-              img: require('@/assets/img/collection/2018s/2018s_02_sample.jpg'),
+              img: require('@/assets/img/collection/2018a/p06/2.jpg'),
               name: 'SampleSample Earrings',
               price: '¥10,000+tax'
             },
             {
-              img: require('@/assets/img/collection/2018s/2018s_02_sample.jpg'),
+              img: require('@/assets/img/collection/2018a/p06/3.jpg'),
               name: 'SampleSample Earrings',
               price: '¥10,000+tax'
             }
