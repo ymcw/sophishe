@@ -66,10 +66,14 @@
   #TopContent {
     .section {
       &.section-2018a {
-        background-image: url("../../assets/img/top/top_visual2018a_sp.jpg");
+        &:after{
+          background-image: url("../../assets/img/top/top_visual2018a_sp.jpg");
+        }
       }
       &.section-2018s {
-        background-image: url("../../assets/img/top/top_visual2018s_sp.jpg");
+        &:after{
+          background-image: url("../../assets/img/top/top_visual2018s_sp.jpg");
+        }
       }
       .text-link {
         bottom: calc(50px + 8%);

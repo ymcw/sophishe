@@ -107,7 +107,7 @@ img {
     margin: 0 auto;
     padding: 0 10px;
     font-size: 1.8em;
-    letter-spacing: .25em;
+    letter-spacing: .1em;
   }
 }
 
@@ -314,4 +314,14 @@ img {
       margin: 0 5.3333333%;
     }
   }
+}
+
+
+@media print, screen and (min-width: 768px) {
+  br.sp { display: none; }
+  br.pc { display: inline; }
+}
+@media screen and (max-width: 767px) {
+  br.sp { display: inline; }
+  br.pc { display: none; }
 }

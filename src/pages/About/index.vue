@@ -45,12 +45,4 @@ export default {
 
 <style lang="scss">
   @import 'style.scss';
-  @media print, screen and (min-width: 768px) {
-    br.sp { display: none; }
-    br.pc { display: inline; }
-  }
-  @media screen and (max-width: 767px) {
-    br.sp { display: inline; }
-    br.pc { display: none; }
-  }
 </style>

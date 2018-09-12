@@ -57,27 +57,23 @@ export default {
           products: [
             {
               img: require('@/assets/img/collection/2018a/p01/1.jpg'),
-              name: 'BASIC / B-001',
-              price: '¥5,845(税込)',
-              link: 'https://sophishehm.stores.jp/items/5b8ae68ca6e6ee3612000bed'
+              name: 'SampleSample Earrings',
+              price: '¥10,000+tax'
             },
             {
               img: require('@/assets/img/collection/2018a/p01/2.jpg'),
-              name: 'STONE / B-002',
-              price: '¥5,240(税込)',
-              link: 'https://sophishehm.stores.jp/items/5b8ae6525f7866752f00052b'
+              name: 'SampleSample Earrings',
+              price: '¥10,000+tax'
             },
             {
               img: require('@/assets/img/collection/2018a/p01/3.jpg'),
-              name: 'STONE / B-003',
-              price: '¥5,310(税込)',
-              link: 'https://sophishehm.stores.jp/items/5b8ae70f5496ff43e4001113'
+              name: 'SampleSample Earrings',
+              price: '¥10,000+tax'
             },
             {
               img: require('@/assets/img/collection/2018a/p01/4.jpg'),
-              name: 'BASIC / B-004',
-              price: '¥4,700(税込)',
-              link: 'https://sophishehm.stores.jp/items/5b8ae6b7a6e6ee6bc80011e0'
+              name: 'SampleSample Earrings',
+              price: '¥10,000+tax'
             }
           ]
         },
@@ -88,21 +84,18 @@ export default {
           products: [
             {
               img: require('@/assets/img/collection/2018a/p02/1.jpg'),
-              name: 'VINTAGE / C-005(10/1より発売)',
-              price: '¥4,920(税込)-'
-              // link: 'https://sophishehm.stores.jp/items/5b8ab3a15f7866423d00059d'
+              name: 'SampleSample Earrings',
+              price: '¥10,000+tax'
             },
             {
               img: require('@/assets/img/collection/2018a/p02/2.jpg'),
-              name: 'STONE / C-006(10/1より発売)',
-              price: '¥5,040(税込)'
-              // link: 'https://sophishehm.stores.jp/items/5b8ae5f550bbc32cd1000ae3'
+              name: 'SampleSample Earrings',
+              price: '¥10,000+tax'
             },
             {
               img: require('@/assets/img/collection/2018a/p02/3.jpg'),
-              name: 'VINTAGE / C-007(10/1より発売)',
-              price: '¥5,210(税込)'
-              // link: 'https://sophishehm.stores.jp/items/5b8ae95bef843f656e000f52'
+              name: 'SampleSample Earrings',
+              price: '¥10,000+tax'
             }
           ]
         },
@@ -113,27 +106,23 @@ export default {
           products: [
             {
               img: require('@/assets/img/collection/2018a/p03/1.jpg'),
-              name: 'BASIC / B-008',
-              price: '¥7,520(税込)',
-              link: 'https://sophishehm.stores.jp/items/5b8ae9b65496ff5dbe001427'
+              name: 'SampleSample Earrings',
+              price: '¥10,000+tax'
             },
             {
               img: require('@/assets/img/collection/2018a/p03/2.jpg'),
-              name: 'VINTAGE / B-009',
-              price: '¥5,240(税込)',
-              link: 'https://sophishehm.stores.jp/items/5b8ab35aa6e6ee077b001bf6'
+              name: 'SampleSample Earrings',
+              price: '¥10,000+tax'
             },
             {
               img: require('@/assets/img/collection/2018a/p03/3.jpg'),
-              name: 'STONE / B-010',
-              price: '¥4,900(税込)',
-              link: 'https://sophishehm.stores.jp/items/5b8ae9f0ef843f598c002e53'
+              name: 'SampleSample Earrings',
+              price: '¥10,000+tax'
             },
             {
               img: require('@/assets/img/collection/2018a/p03/4.jpg'),
-              name: 'VINTAGE / B-011',
-              price: '¥5,390(税込)',
-              link: 'https://sophishehm.stores.jp/items/5b8ae58ea6e6ee6321000b21'
+              name: 'SampleSample Earrings',
+              price: '¥10,000+tax'
             }
           ]
         },
@@ -144,21 +133,18 @@ export default {
           products: [
             {
               img: require('@/assets/img/collection/2018a/p04/1.jpg'),
-              name: 'VINTAGE / C-012(10/1より発売)',
-              price: '¥7,240(税込)'
-              // link: 'https://sophishehm.stores.jp/items/5b8ae5335496ff5dbe0013b7'
+              name: 'SampleSample Earrings',
+              price: '¥10,000+tax'
             },
             {
               img: require('@/assets/img/collection/2018a/p04/2.jpg'),
-              name: 'VINTAGE / C-013(10/1より発売)',
-              price: '¥7,540(税込)'
-              // link: 'https://sophishehm.stores.jp/items/5b8ae5025496ff5ad7000fd7'
+              name: 'SampleSample Earrings',
+              price: '¥10,000+tax'
             },
             {
               img: require('@/assets/img/collection/2018a/p04/3.jpg'),
-              name: 'STONE / C-014(10/1より発売)',
-              price: '¥12,100(税込)'
-              // link: 'https://sophishehm.stores.jp/items/5b8ae466ef843f6009001b25'
+              name: 'SampleSample Earrings',
+              price: '¥10,000+tax'
             }
           ]
         },
@@ -169,21 +155,18 @@ export default {
           products: [
             {
               img: require('@/assets/img/collection/2018a/p05/1.jpg'),
-              name: 'BASIC / B-015',
-              price: '¥4,575(税込)',
-              link: 'https://sophishehm.stores.jp/items/5b8ae3ce50bbc33ce70009f7'
+              name: 'SampleSample Earrings',
+              price: '¥10,000+tax'
             },
             {
               img: require('@/assets/img/collection/2018a/p05/2.jpg'),
-              name: 'BASIC / B-016',
-              price: '¥4,575(税込)',
-              link: 'https://sophishehm.stores.jp/items/5b8ae3fc5496ff5dd900180d'
+              name: 'SampleSample Earrings',
+              price: '¥10,000+tax'
             },
             {
               img: require('@/assets/img/collection/2018a/p05/3.jpg'),
-              name: 'BASIC / B-017',
-              price: '¥7,200(税込)',
-              link: 'https://sophishehm.stores.jp/items/5b8ae5bc50bbc35b0d0015a2'
+              name: 'SampleSample Earrings',
+              price: '¥10,000+tax'
             }
           ]
         },
@@ -194,21 +177,18 @@ export default {
           products: [
             {
               img: require('@/assets/img/collection/2018a/p06/1.jpg'),
-              name: 'VINTAGE / C-018(10/1より発売)',
-              price: '¥6,030(税込)'
-              // link: 'https://sophishehm.stores.jp/items/5b8ae39b50bbc32cd1000aa4'
+              name: 'SampleSample Earrings',
+              price: '¥10,000+tax'
             },
             {
               img: require('@/assets/img/collection/2018a/p06/2.jpg'),
-              name: 'STONE / C-019(10/1より発売)',
-              price: '¥5,200(税込)'
-              // link: 'https://sophishehm.stores.jp/items/5b8ae9085f78667735000d54'
+              name: 'SampleSample Earrings',
+              price: '¥10,000+tax'
             },
             {
               img: require('@/assets/img/collection/2018a/p06/3.jpg'),
-              name: 'VINTAGE / C-020',
-              price: '¥6,310(税込)(10/1より発売)'
-              // link: 'https://sophishehm.stores.jp/items/5b8ab33050bbc32fed0001bb'
+              name: 'SampleSample Earrings',
+              price: '¥10,000+tax'
             }
           ]
         }
