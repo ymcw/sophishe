@@ -104,18 +104,8 @@ export default {
   }
   .list.show li{
     margin-left: -10px;
-    /*-webkit-animation: MenuOptionFadeIn 1s ease;*/
-    /*-moz-animation: MenuOptionFadeIn 1s ease;*/
-    /*-o-animation: MenuOptionFadeIn 1s ease;*/
     animation: MenuOptionFadeIn 1s ease;
-    /*-moz-animation-fill-mode: forwards;*/
-    /*-o-animation-fill-mode: forwards;*/
-    /*-ms-animation-fill-mode: forwards;*/
     animation-fill-mode: forwards;
-    /*-webkit-animation-name: MenuOptionFadeIn;*/
-    /*-webkit-animation-duration: 1s;*/
-    /*-webkit-animation-timing-function: ease;*/
-    /*-webkit-animation-fill-mode: forwards;*/
   }
 
   .list.show li:nth-child(1){

@@ -13,7 +13,7 @@
           <router-link tag="div" class="collection-link c-section__image-in js-smooth-item" to="/collection/2018S">
             <a class="hover-img"><img src="@/assets/img/collection/collection_2018s.jpg" class="js-parallax-item" alt=""></a>
           </router-link>
-          <h2 class="collection-title">2018 Summer Collection “Jewelry like”</h2>
+          <h2 class="collection-title">2018 Autumn Collection “Jewelry like”</h2>
         </article>
       </section>
     </div>
@@ -36,4 +36,16 @@ export default {
 
 <style lang="scss">
   @import 'style.scss';
+
+  .hover-img{
+    img{
+      display: block;
+      transition-duration: 0.1s;
+    }
+    img:hover{
+      transform: scale(1.05) !important;
+      transition-duration: 0.6s;
+      opacity: .8;
+    }
+  }
 </style>

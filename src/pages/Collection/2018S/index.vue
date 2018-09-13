@@ -48,7 +48,7 @@
             <!--<a href="https://sophishehm.stores.jp/items/5b88d0a2ef843f17110011cb" target="_blank">-->
               <div class="product-img hover-img"><img src="@/assets/img/collection/2018s/6.jpg"></div>
             </a>
-            <div class="product-name">PEARL / C-026(10/1より発売)</div>
+            <div class="product-name">PEARL / C-026(10/1〜)</div>
               <div class="product-price">¥7,900(税込)</div>
           </li>
           <li>
@@ -56,7 +56,7 @@
             <!--<a href="https://sophishehm.stores.jp/items/5b88d05c50bbc379df000c36" target="_blank">-->
               <div class="product-img hover-img"><img src="@/assets/img/collection/2018s/7.jpg"></div>
             </a>
-            <div class="product-name">PEARL /C-027(10/1より発売)</div>
+            <div class="product-name">PEARL /C-027(10/1〜)</div>
               <div class="product-price">¥8,200(税込)</div>
           </li>
           <li>
@@ -64,7 +64,7 @@
             <!--<a href="https://sophishehm.stores.jp/items/5b88d08c50bbc359c6001247" target="_blank">-->
               <div class="product-img hover-img"><img src="@/assets/img/collection/2018s/8.jpg"></div>
             </a>
-            <div class="product-name">PEARL /C-028(10/1より発売)</div>
+            <div class="product-name">PEARL /C-028(10/1〜)</div>
             <div class="product-price">¥5,210(税込)</div>
           </li>
           <li>
@@ -72,7 +72,7 @@
             <!--<a href="https://sophishehm.stores.jp/items/5b88d00cef843f5c2400121c" target="_blank">-->
               <div class="product-img hover-img"><img src="@/assets/img/collection/2018s/9.jpg"></div>
             </a>
-            <div class="product-name">BASIC / C-029(10/1より発売)</div>
+            <div class="product-name">BASIC / C-029(10/1〜)</div>
             <div class="product-price">¥4,230(税込)</div>
           </li>
           <li>
@@ -80,7 +80,7 @@
             <!--<a href="https://sophishehm.stores.jp/items/5b88d02e50bbc36bce004826" target="_blank">-->
               <div class="product-img hover-img"><img src="@/assets/img/collection/2018s/10.jpg"></div>
             </a>
-            <div class="product-name">PEARL /C-030(10/1より発売)</div>
+            <div class="product-name">PEARL /C-030(10/1〜)</div>
             <div class="product-price">¥5,580(税込)</div>
           </li>
           <!--<li>-->

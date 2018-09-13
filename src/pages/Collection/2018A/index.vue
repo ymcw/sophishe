@@ -21,7 +21,7 @@
               :key="index"
               :class="'product-' + index"
               :data-index="index">
-            <a href="" target="_blank">
+            <a :href="product.link" target="_blank">
               <div class="product-img hover-img">
                 <img :src="product.img">
               </div>
@@ -88,19 +88,19 @@ export default {
           products: [
             {
               img: require('@/assets/img/collection/2018a/p02/1.jpg'),
-              name: 'VINTAGE / C-005(10/1より発売)',
+              name: 'VINTAGE / C-005(10/1〜)',
               price: '¥4,920(税込)-'
               // link: 'https://sophishehm.stores.jp/items/5b8ab3a15f7866423d00059d'
             },
             {
               img: require('@/assets/img/collection/2018a/p02/2.jpg'),
-              name: 'STONE / C-006(10/1より発売)',
+              name: 'STONE / C-006(10/1〜)',
               price: '¥5,040(税込)'
               // link: 'https://sophishehm.stores.jp/items/5b8ae5f550bbc32cd1000ae3'
             },
             {
               img: require('@/assets/img/collection/2018a/p02/3.jpg'),
-              name: 'VINTAGE / C-007(10/1より発売)',
+              name: 'VINTAGE / C-007(10/1〜)',
               price: '¥5,210(税込)'
               // link: 'https://sophishehm.stores.jp/items/5b8ae95bef843f656e000f52'
             }
@@ -144,19 +144,19 @@ export default {
           products: [
             {
               img: require('@/assets/img/collection/2018a/p04/1.jpg'),
-              name: 'VINTAGE / C-012(10/1より発売)',
+              name: 'VINTAGE / C-012(10/1〜)',
               price: '¥7,240(税込)'
               // link: 'https://sophishehm.stores.jp/items/5b8ae5335496ff5dbe0013b7'
             },
             {
               img: require('@/assets/img/collection/2018a/p04/2.jpg'),
-              name: 'VINTAGE / C-013(10/1より発売)',
+              name: 'VINTAGE / C-013(10/1〜)',
               price: '¥7,540(税込)'
               // link: 'https://sophishehm.stores.jp/items/5b8ae5025496ff5ad7000fd7'
             },
             {
               img: require('@/assets/img/collection/2018a/p04/3.jpg'),
-              name: 'STONE / C-014(10/1より発売)',
+              name: 'STONE / C-014(10/1〜)',
               price: '¥12,100(税込)'
               // link: 'https://sophishehm.stores.jp/items/5b8ae466ef843f6009001b25'
             }
@@ -194,20 +194,20 @@ export default {
           products: [
             {
               img: require('@/assets/img/collection/2018a/p06/1.jpg'),
-              name: 'VINTAGE / C-018(10/1より発売)',
+              name: 'VINTAGE / C-018(10/1〜)',
               price: '¥6,030(税込)'
               // link: 'https://sophishehm.stores.jp/items/5b8ae39b50bbc32cd1000aa4'
             },
             {
               img: require('@/assets/img/collection/2018a/p06/2.jpg'),
-              name: 'STONE / C-019(10/1より発売)',
+              name: 'STONE / C-019(10/1〜)',
               price: '¥5,200(税込)'
               // link: 'https://sophishehm.stores.jp/items/5b8ae9085f78667735000d54'
             },
             {
               img: require('@/assets/img/collection/2018a/p06/3.jpg'),
-              name: 'VINTAGE / C-020',
-              price: '¥6,310(税込)(10/1より発売)'
+              name: 'VINTAGE / C-020(10/1〜)',
+              price: '¥6,310(税込)'
               // link: 'https://sophishehm.stores.jp/items/5b8ab33050bbc32fed0001bb'
             }
           ]

@@ -18,7 +18,7 @@
             以前の商品に比べて、各国のvintage partsをはじめ<br class="pc">こだわりのインポートパーツや天然素材を多く取り扱う商品となっております。<br><br>
             ひとつひとつのパーツはシンプルながらもデザイン性の高い、人と被ることのないヴィンテージライク/ジュエリーライクなデザインを提案します。
           </p>
-          <div class="news-image">
+          <div class="news-inner-image">
             <img src="@/assets/img/news/20180912/2.jpg"/>
           </div>
           <p class="txt-read">

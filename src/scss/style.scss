@@ -252,29 +252,10 @@ img {
         }
       }
     }
-    //&.isFixed{
-    //  height: 50px;
-    //  .inner-wrap{
-    //    .logo{
-    //      zoom: 0.7;
-    //    }
-    //  }
-    //}
   }
   #footer{
     .inner-wrap{
       width: 94%;
-    }
-  }
-  .hover-img{
-    img{
-      display: block;
-      transition-duration: 0.6s;
-    }
-    img:hover{
-      transform: scale(1.05) !important;
-      transition-duration: 0.6s;
-      opacity: .8;
     }
   }
 }
